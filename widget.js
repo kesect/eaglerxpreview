@@ -769,7 +769,7 @@
                                 setTimeout(function() {
                                     dbg_w("Server has blocked you temporarily, retrying in 2 seconds")
                                     setTimeout(function() {
-                                        dbg_w("Server has blocked you temporarily, retrying in 1 seconds")
+                                        dbg_w("Server has blocked you temporarily, retrying in 1 second")
                                         setTimeout(function() {
                                             window.location.reload()
                                         }, 1000)
@@ -835,3 +835,4 @@
         redraw = true;
     };
 })();
+
