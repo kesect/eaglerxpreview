@@ -37,3 +37,5 @@ window.eaglercraftXPreview = {
 | Safari             | 16+               |
 | Internet Explorer  | Not Supported     |
 
+# simple diagram
+![Diagram](img/diagram.png)
